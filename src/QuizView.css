@@ -1,0 +1,15 @@
+.quiz-view {
+	width: 800px;
+	min-height: 500px;
+
+	position: absolute;
+	top: 25%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+}
+h2.ui.header{
+	min-height: 60px;
+}
